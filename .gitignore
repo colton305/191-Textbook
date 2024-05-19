@@ -11,6 +11,11 @@ venv.bak/
 
 # Build files
 _build/
+build/
+195book/build/
 .195book/_build/
 195book/_build/
 195book/_build/html/
+195book/_build/html/title-page.html
+195book/_build/html/search.html
+195book/_build/html/genindex.html
