@@ -3,33 +3,33 @@
 
 # Preamble
 format: jb-book
-root: title-page
+root: title-page.md
 title: Introductory Data Science in Python
 options: 
   numbered: true
 
 # Chapters and sections
 chapters: 
-  - file: chapters/1/what-is-data-science
+  - file: chapters/1/what-is-data-science.ipynb
     title: What is data science?
     sections:
-      - file: chapters/1/1/what-is-a-data-scientist
+      - file: chapters/1/1-1/what-is-a-data-scientist.ipynb
         title: What is a data scientist?
-      - file: chapters/1/2/the-data-science-life-cycle
+      - file: chapters/1/1-2/the-data-science-life-cycle.ipynb
         title: The data science life cycle
-  - file: chapters/2/cause-and-effect
+  - file: chapters/2/cause-and-effect.ipynb
     title: Cause and effect
-  - file: chapters/3/tabular-data
+  - file: chapters/3/tabular-data.ipynb
     title: Tabular data
     sections:
-      - file: chapters/3/1/what-is-tabular-data
+      - file: chapters/3/3-1/what-is-tabular-data.ipynb
         title: What is tabular data?
-      - file: chapters/3/2/arrays-and-dataframes
+      - file: chapters/3/3-2/arrays-and-dataframes.ipynb
         title: NumPy Arrays and pandas DataFrames
-      - file: chapters/3/3/selecting-and-filtering
+      - file: chapters/3/3-3/selecting-and-filtering.ipynb
         title: Selecting and filtering DataFrames
-      - file: chapters/3/4/aggregating-and-joining
+      - file: chapters/3/3-4/aggregating-and-joining.ipynb
         title: Aggregating, Joining, and Pivot Tables
-      - file: chapters/3/5/transforming-and-apply
+      - file: chapters/3/3-5/transforming-and-apply.ipynb
         title: Transforming DataFrames
       
