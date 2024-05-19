@@ -1,7 +1,14 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
 
+# Preamble
 format: jb-book
 root: title-page
-chapters:
-- file: title-page
+title: Introductory Data Science in Python
+options: 
+  numbered: true
+
+# Chapters and sections
+chapters: 
+  - file: chapters/1/what-is-data-science
+    title: What is data science?
