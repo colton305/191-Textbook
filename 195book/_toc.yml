@@ -17,10 +17,8 @@ chapters:
         title: What is a data scientist?
       - file: chapters/1/2/the-data-science-life-cycle
         title: The data science life cycle
-  
   - file: chapters/2/cause-and-effect
     title: Cause and effect
-  
   - file: chapters/3/tabular-data
     title: Tabular data
     sections:
