@@ -12,3 +12,26 @@ options:
 chapters: 
   - file: chapters/1/what-is-data-science
     title: What is data science?
+    sections:
+      - file: chapters/1/1/what-is-a-data-scientist
+        title: What is a data scientist?
+      - file: chapters/1/2/the-data-science-life-cycle
+        title: The data science life cycle
+  
+  - file: chapters/2/cause-and-effect
+    title: Cause and effect
+  
+  - file: chapters/3/tabular-data
+    title: Tabular data
+    sections:
+      - file: chapters/3/1/tabular-data
+        title: What is tabular data?
+      - file: chapters/3/2/arrays-and-dataframes
+        title: NumPy Arrays and pandas DataFrames
+      - file: chapters/3/3/selecting-and-filtering
+        title: Selecting and filtering DataFrames
+      - file: chapters/3/4/aggregating-and-joining
+        title: Aggregating, Joining, and Pivot Tables
+      - file: chapters/3/5/transforming-and-apply
+        title: Transformation #, or, how I learned to stop worrying and love df.apply()
+      
