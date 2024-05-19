@@ -22,7 +22,7 @@ chapters:
   - file: chapters/3/tabular-data
     title: Tabular data
     sections:
-      - file: chapters/3/1/tabular-data
+      - file: chapters/3/1/what-is-tabular-data
         title: What is tabular data?
       - file: chapters/3/2/arrays-and-dataframes
         title: NumPy Arrays and pandas DataFrames
@@ -31,5 +31,5 @@ chapters:
       - file: chapters/3/4/aggregating-and-joining
         title: Aggregating, Joining, and Pivot Tables
       - file: chapters/3/5/transforming-and-apply
-        title: Transformation #, or, how I learned to stop worrying and love df.apply()
+        title: Transforming DataFrames
       
