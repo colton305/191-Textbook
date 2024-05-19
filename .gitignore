@@ -14,10 +14,13 @@ _build/
 build/
 195book/build/
 195book/build/.doctrees/
-.195book/_build/
+.195book/_build/.doctrees/
+.195book/build/
 195book/_build/
 195book/_build/html/
 195book/_build/html/title-page.html
 195book/_build/html/search.html
 195book/_build/html/genindex.html
+195book/_build/.doctrees/environment.pickle
+195book/_build/.doctrees/environment.pickle
 195book/_build/.doctrees/environment.pickle
