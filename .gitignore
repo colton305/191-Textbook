@@ -24,3 +24,6 @@ build/
 195book/_build/.doctrees/environment.pickle
 195book/_build/.doctrees/environment.pickle
 195book/_build/.doctrees/environment.pickle
+
+# Other
+create_folders.py
