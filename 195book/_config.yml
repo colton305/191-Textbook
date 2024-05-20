@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Introductory Data Science in Python
-author: Rejwana Haque, Leo Kraushaar, and Colton Schneider
+author: Leo Kraushaar
 logo: assets/images/new_logo.webp
 
 # Force re-execution of notebooks on each build.

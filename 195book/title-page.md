@@ -1,5 +1,3 @@
 # Introductory Data Science in Python
 
-## Written by L. Kraushaar, C. Schneider, and R. Haque
-
-### For: CMPUT 195
+## Written by L. Kraushaar
